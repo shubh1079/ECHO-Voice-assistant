@@ -6,3 +6,5 @@ pyautogui==0.9.54
 pywhatkit==5.4
 pvporcupine==2.2.1
 hugchat==0.5.1
+flask
+gunicorn
